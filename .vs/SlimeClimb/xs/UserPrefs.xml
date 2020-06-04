@@ -1,5 +1,8 @@
 ﻿<Properties StartupConfiguration="{FE4B48BC-D7CF-B136-559D-184CADDB2A2C}|">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Slime/CreativeMode.cs">
+    <Files>
+      <File FileName="Assets/Script/Slime/CreativeMode.cs" Line="16" Column="6" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -10,7 +13,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8d99f870-88c5-457d-bfc3-cf01b04eecd2" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7ad0fa85-5324-4ff6-8941-38089c102383" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
